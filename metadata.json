@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An AI-powered resume review & job-match platform for job seekers. Instant ATS compatibility score, prioritized improvement list, and job-match matching with plain-language feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
